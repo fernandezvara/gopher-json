@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/yuin/gopher-lua"
+	lua "github.com/fernandezvara/gopher-lua"
 )
 
 func TestSimple(t *testing.T) {

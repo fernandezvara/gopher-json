@@ -1,0 +1,7 @@
+github.com/fernandezvara/gopher-lua v0.0.0-20221128083141-a65181462332 h1:Wi667dSHcfaR1n9rzbEYMmgU9TM4NmhfXSixaSd+yjA=
+github.com/fernandezvara/gopher-lua v0.0.0-20221128083141-a65181462332/go.mod h1:wH9E8h3BxDXf0i+exdvq6wYIpvIybe3yiWKN7cI5Cv4=
+github.com/google/go-cmp v0.5.4 h1:L8R9j+yAqZuZjsqh/z+F1NCffTKKLShY6zXTItVIZ8M=
+github.com/google/go-cmp v0.5.4/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/psanford/memfs v0.0.0-20210214183328-a001468d78ef h1:NKxTG6GVGbfMXc2mIk+KphcH6hagbVXhcFkbTgYleTI=
+github.com/psanford/memfs v0.0.0-20210214183328-a001468d78ef/go.mod h1:tcaRap0jS3eifrEEllL6ZMd9dg8IlDpi2S1oARrQ+NI=
+golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
